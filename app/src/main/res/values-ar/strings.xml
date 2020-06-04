@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Delivery</string>
+    <string name="home">الرئيسية</string>
+    <string name="cart">السلة</string>
+
+    <string name="please_wait">الرجاء الانتظار</string>
+    <string name="loading_please_wait">الرجاء الانتظار</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="password">كلمة السر</string>
+    <string name="failure">فشل</string>
+    <string name="please_enter_all_field">الرجاء ادخال جميع الحقول</string>
+    <string name="first_name">الاسم الاول</string>
+    <string name="last_name">اسم العائلة</string>
+    <string name="phone">الهاتف</string>
+    <string name="address">العنوان</string>
+    <string name="gender">الجنس</string>
+    <string name="male">ذكر</string>
+    <string name="female">انثى</string>
+    <string name="sign_up_success_please_login">تم التسجيل بنجاح</string>
+    <string name="sign_up_failed_please_try_again">فشل التسجيل...الرجاء اعادة المحاولة</string>
+    <string name="history">السجل</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="sure_you_want_log_out">تأكيد تسجيل الخروج ؟</string>
+    <string name="ok">موافق</string>
+    <string name="cancel">الغاء</string>
+    <string name="submit">تأكيد</string>
+    <string name="failed_to_get_stores">فشل تحميل المتاجر</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="don_t_have_an_account_sign_up">ليس لديك حساب؟ التسجيل</string>
+    <string name="sign_up">تسجيل</string>
+    <string name="try_again">إعادة المحاولة</string>
+    <string name="total_cost">الكلفة الإجمالية</string>
+    <string name="order">طلب</string>
+    <string name="rate_this_item">تقييم المنتج</string>
+    <string name="add_to_cart">إضافة الى السلة</string>
+    <string name="thanks">شكرا</string>
+    <string name="done">تم</string>
+    <string name="item_already_exist">العنصر موجود بالفعل</string>
+    <string name="the_cart_is_empty">السلة فارغة</string>
+    <string name="are_you_sure">تأكيد العملية؟</string>
+    <string name="failed_to_make_an_order">فشل اتمام العملية .. الرجاء إعادة المحاولة</string>
+    <string name="failed_to_get_history_record">فشل تحميل السجل .. الرجاء اعادة المحاولة</string>
+    <string name="failed_to_get_items">فشل تحميل العناصر .. الرجاء إعادة المحاولة</string>
+    <string name="years">سنة</string>
+    <string name="year">سنة</string>
+    <string name="months">شهر</string>
+    <string name="month">شهر</string>
+    <string name="days">يوم</string>
+    <string name="day">يوم</string>
+    <string name="email_or_password_wrong">البريد الالكتروني او كلمة السر خاظئة</string>
+    <string name="email_already_used">البريد اللكترني مستخدم بالفعل</string>
+
+
+</resources>

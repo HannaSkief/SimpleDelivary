@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Delivery</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_wait">Please wait</string>
+    <string name="loading_please_wait">Loading ... please wait</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="failure">Failure</string>
+    <string name="please_enter_all_field">Please enter all field</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="sign_up_success_please_login">Sign up success ... please login</string>
+    <string name="sign_up_failed_please_try_again">Sign up failed ... please try again</string>
+    <string name="history">History</string>
+    <string name="logout">Logout</string>
+    <string name="sure_you_want_log_out">Are you sure you want to logout ?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="failed_to_get_stores">Failed to get stores</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? sign up</string>
+    <string name="sign_up">Sign up</string>
+    <string name="try_again">Try again</string>
+    <string name="total_cost">Total cost :</string>
+    <string name="order">order</string>
+    <string name="rate_this_item">Rate this item</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="thanks">Thanks</string>
+    <string name="done">Done</string>
+    <string name="item_already_exist">Item already exist</string>
+    <string name="the_cart_is_empty">The cart is empty</string>
+    <string name="are_you_sure">Are you sure ?</string>
+    <string name="failed_to_make_an_order">Failed to make an order..please try again</string>
+    <string name="failed_to_get_history_record">failed to get history record</string>
+    <string name="failed_to_get_items">Failed to get items..please try again</string>
+    <string name="years">Years</string>
+    <string name="year">Year</string>
+    <string name="months">Months</string>
+    <string name="month">Month</string>
+    <string name="days">Days</string>
+    <string name="day">Day</string>
+    <string name="email_or_password_wrong">Email or password wrong</string>
+    <string name="email_already_used">Email already used</string>
+</resources>
